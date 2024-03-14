@@ -31,7 +31,7 @@ public class Time
 //			JOptionPane.QUESTION_MESSAGE);
 //		
 		int totalSeconds = getTotalSeconds("10:10:10");
-		System.out.println("Total Seconds ="+totalSeconds);
+		System.out.println("**GITHUB Total Seconds ="+totalSeconds);
 		
 //		JOptionPane.showMessageDialog(null, totalSeconds, "Total Seconds",
 //			JOptionPane.INFORMATION_MESSAGE);
